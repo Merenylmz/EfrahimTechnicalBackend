@@ -23,8 +23,8 @@ Bu sunucu uygulamasını yerel ortamınızda çalıştırmak için aşağıdaki 
 Öncelikle bu depoyu klonlayın ve proje klasörüne gidin:
 
 ```bash
-git clone [Deponun HTTPS veya SSH URL'si buraya gelecek]
-cd [Projenin Back-end Klasör Adı]
+git clone https://github.com/Merenylmz/EfrahimTechnicalBackend.git
+cd projedosyasi
 npm install
 npm run start
 ```
@@ -55,8 +55,8 @@ Follow the steps below to run this server application in your local environment.
 First, clone this repository and navigate into the project folder:
 
 ```bash
-git clone [The HTTPS or SSH URL of the Repository goes here]
-cd [The Back-end Project Folder Name]
+git clone https://github.com/Merenylmz/EfrahimTechnicalBackend.git
+cd projectfolder
 npm install
 npm run start
 ```
