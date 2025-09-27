@@ -1,6 +1,6 @@
 # Efrahim Teknik Servis - Sunucu Uygulaması (Back-End)
 
-Bu depo, **Efrahim Teknik Servis** web uygulamasının **back-end** (sunucu) tarafını içerir. Proje, yaklaşık **3 yıl önce** **Node.js** ve **Express.js** kullanılarak geliştirilmiştir.
+Bu depo, **Efrahim Teknik Servis** web uygulamasının **back-end** (sunucu) tarafını içerir. Proje, yaklaşık 2022 de **Node.js** ve **Express.js** kullanılarak geliştirilmiştir.
 
 Bu sunucu uygulaması; **API uç noktalarını (endpoints)** yönetir, **veritabanı** ile iletişimi sağlar ve front-end (ön yüz) uygulamasının ihtiyaç duyduğu tüm verileri sunar.
 
@@ -32,7 +32,7 @@ English
 
 # Efrahim Technical Service - Server Application (Back-End)
 
-This repository contains the **back-end** (server-side) of the **Efrahim Technical Service** web application. The project was developed approximately **3 years ago** using **Node.js** and **Express.js**.
+This repository contains the **back-end** (server-side) of the **Efrahim Technical Service** web application. The project was developed approximately 2022 using **Node.js** and **Express.js**.
 
 This server application manages **API endpoints**, handles **database** communication, and provides all the necessary data for the front-end application.
 
